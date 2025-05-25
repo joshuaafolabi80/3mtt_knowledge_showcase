@@ -1,10 +1,3 @@
-Absolutely! I can help you draft a detailed, professional README.md file for your project based on what I understand so far, and including your contact info.
-
----
-
-Here’s a template README.md you can start with — feel free to customize further later:
-
-````markdown
 # 3MTT Knowledge Showcase
 
 Welcome to the **3MTT Knowledge Showcase** project repository. This project is designed as a comprehensive knowledge platform tailored primarily for Nigerian Primary 1 educational content aligned with the national curriculum.
