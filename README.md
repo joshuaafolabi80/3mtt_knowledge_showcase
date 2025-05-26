@@ -1,6 +1,6 @@
 # 3MTT Knowledge Showcase
 
-Welcome to the **3MTT Knowledge Showcase** project repository. This project is designed as a comprehensive knowledge platform tailored primarily for Nigerian Primary 1 educational content aligned with the national curriculum.
+Welcome to the **3MTT Knowledge Showcase** project repository. This project is designed as a comprehensive knowledge platform tailored primarily for Nigerian Primary educational content aligned with the national curriculum. The Secondary school application is in the pipeline.
 
 ## Project Overview
 
